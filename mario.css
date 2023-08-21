@@ -1,0 +1,22 @@
+body{
+    background-color:aqua
+}
+.pagina{
+    background-image: url("cenario.png");
+}
+.pagina{
+    background-image: url("cenario.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    bottom: 0;
+    color:aliceblue;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    text-align: center;
+}
+#fotos{
+    width: 50%;
+    height: 300px;
+}
