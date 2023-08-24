@@ -1,15 +1,12 @@
 body{
-    background-color:aqua
+    background-color: rgb(0, 255, 115);
 }
 .pagina{
-    background-image: url("cenario.png");
-}
-.pagina{
-    background-image: url("cenario.png");
+    background-image: url(teen-titans-01.png);
     background-repeat: no-repeat;
     background-size: 100%;
     bottom: 0;
-    color:aliceblue;
+    color: black;
     left: 0;
     overflow: auto;
     padding: 3em;
@@ -17,6 +14,23 @@ body{
     text-align: center;
 }
 #fotos{
-    width: 50%;
+    width: 100%;
+    height: auto;
+}
+.pagina h1 img{
+    width: 30%;
     height: 300px;
+    float: left;
+    color: brown;
+    left: 0;
+    text-align: center;
+    top: 0;
+    position: relative;
+    overflow: auto;
+}
+
+.pagina h2 img{
+    width: 30%;
+    height: 300px;
+    float: left;
 }
